@@ -2,3 +2,11 @@
 ## WebPack
 WebPack/node_modules
 WebPack/libs
+
+
+## WebSite_Python
+WebSite_Python/venv
+
+
+## Python_Flask_Docker
+Python_Flask_Docker/venv
