@@ -11,3 +11,8 @@ Creating a bot in Discord with the NodeJs server.
 
 * NodeJs
 * Discord.js
+
+
+### Remember
+
+The bot token is not working
