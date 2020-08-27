@@ -1,0 +1,20 @@
+{
+  "name": "Mongoose_Paginate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.1",
+    "mongoose-paginate-v2": "^1.3.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
