@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "DiscordBot"
+		},
+		{
+			"path": "Graphql_NodeJs_Mongodb"
+		},
+		{
+			"path": "Mongoose_Paginate"
+		},
+		{
+			"path": "PagosOnline_Stripe"
+		},
+		{
+			"path": "Python_Flask_Docker"
+		},
+		{
+			"path": "WebPack"
+		},
+		{
+			"path": "WebSite_Python"
+		}
+	]
+}
