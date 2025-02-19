@@ -34,3 +34,4 @@ Mongoose_Paginate/node_modules
 
 ## FlaskRESTApiProducts
 **/__pycache__/
+**/*.pyc
